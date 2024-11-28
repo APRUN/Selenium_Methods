@@ -1,4 +1,4 @@
-# Selenium Automation Script 🖥️  
+# Getting Started with Selenium Automation Script 🖥️  
 
 This repository contains a Python script for automating browser interactions using Selenium WebDriver. It provides examples of various Selenium methods to perform tasks such as navigation, element interaction, and more.
 
